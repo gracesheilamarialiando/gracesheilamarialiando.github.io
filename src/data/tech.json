@@ -1,0 +1,23 @@
+{
+  "categories": [
+    {
+      "title": "Riset & Penulisan",
+      "skills": [
+        { "name": "Microsoft Word", "level": 3, "icon": "vscode-icons:file-type-word" },
+        { "name": "Microsoft Excel", "level": 2, "icon": "vscode-icons:file-type-excel" },
+        { "name": "PowerPoint", "level": 3, "icon": "vscode-icons:file-type-powerpoint" },
+        { "name": "Google Docs", "level": 2, "icon": "simple-icons:googledocs" },
+        { "name": "Canva", "level": 2, "icon": "devicon:canva" },
+        { "name": "Mendeley", "level": 2, "icon": "simple-icons:mendeley" }
+      ]
+    },
+    {
+      "title": "Pengembangan Web",
+      "skills": [
+        { "name": "HTML", "level": 2, "icon": "devicon:html5" },
+        { "name": "CSS", "level": 2, "icon": "devicon:css3" },
+        { "name": "Github", "level": 2, "icon": "devicon:github" }
+      ]
+    }
+  ]
+}

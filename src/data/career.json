@@ -1,0 +1,31 @@
+[
+  {
+    "company": "Universitas Cendrawasih",
+    "role": "S1 Statistika",
+    "period": "Juli 2026 - Saat ini",
+    "type": "Mahasiswa",
+    "description": "Mahasiswa baru yang berfokus mempelajari dasar-dasar pemograman dan algoritma pemograman.",
+    "skills": ["Pemograman Dasar", "Memecahkan Masalah", "Kerja Sama Tim"]
+  },
+  {
+    "company": "SMA YPPK Teruna Bakti",
+    "role": "Kesehatan",
+    "period": "Juli 2022 - Mei 2025",
+    "type": "Siswa",
+    "description": "Menempuh pendidikan menangah atas dengan minat pada bidang sains dan matematika, serta pernah mengikuti kompetisi Karya Tulis Ilmiah (KTI).",
+    "skills": ["Menulis"]
+  },
+  {
+    "company": "SMP YPPK Santo Paulus Abepura",
+    "period": "Juli 2019 - Juni 2022",
+    "type": "Siswa",
+    "description": "Menempuh pendidikan menangah pertama dengan pengalaman mengikuti PMR (Palang Merah Remaja)",
+    "skills":[]
+  },
+  {
+    "company": "SD N INPRES 6.88 WAENA",
+    "period": "2013 - 2019",
+    "type": "Siswa",
+    "skills": []
+  }
+]    

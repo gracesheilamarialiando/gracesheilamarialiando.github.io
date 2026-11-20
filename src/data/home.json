@@ -1,0 +1,47 @@
+{
+  "name": "Grace Sheila M. Liando",
+  "photoUrl": "WhatsApp Image 2026-11-20 at 1.52.42 PM.jpeg",
+  "location": "Jayapura, Indonesia",
+  "availability": "Terbuka untuk proyek analisis data",
+  "description": "Mahasiswa Statistika dengan minat kuat pada sains data, analisis prediktif, dan penerapan teori peluang untuk mengasilkan wawasan berbasis data.",
+  "webpageTitle": "Grace Sheila M. Liando | Statistika",
+
+  "_seo_comment": "SEO fields — update these along with your personal info for best search engine visibility.",
+  "jobTitle": "Mahasiswa Statistika",
+  "keywords": "Grace Sheila M. Liando, Statistika, Data Sains, Analisis Data",
+  "siteUrl": "https://your-domain.com",
+  "lang": "id",
+  "ogImageUrl": "/placeholder.jpeg",
+
+  "_comment": "Add your social links below. Leave the 'url' empty to hide the icon. Set 'showInContact' to true or false to control if it appears in the Contact section.",
+  "socials": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/gracesheilamarialiando",
+      "icon": "mdi:github",
+      "label": "View Profile",
+      "showInContact": true
+    },
+    {
+      "name": "Email",
+      "url": "mailto:grcsheilaa02@gmail.com",
+      "icon": "mdi:email",
+      "label": "Send Email",
+      "showInContact": true
+    },
+    {
+      "name": "WhatsApp",
+      "url": "https://wa.me/6282198813667",
+      "icon": "mdi:whatsapp",
+      "label": "Send Message",
+      "showInContact": true
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/grcsheilaa?fqnt=MWE5cmJsY3M4ZTFuOA==",
+      "icon": "mdi:instagram",
+      "label": "View Profile",
+      "showInContact": false
+    }
+  ]
+}
